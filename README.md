@@ -25,7 +25,7 @@ This section consolidates on the weather database by applying information gained
 
 Vacation itinerary is created using 4 stops in Australian cities. These cities are: Carnarvon, Port Keats, Mount Isa and Yulara.
 
-![Uploading WeatherPy_travel_map.png…]()
+![WeatherPy_travel_map](https://user-images.githubusercontent.com/91093413/140645162-ef53c029-ee6f-4e02-9959-20611574ea03.png)
 
 
 The addition of markers as well as available hotels is represented in the table below.
