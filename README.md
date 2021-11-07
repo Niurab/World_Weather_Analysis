@@ -33,5 +33,28 @@ The addition of markers as well as available hotels is represented in the table 
 ![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/91093413/140645095-8ec78747-c41e-4ac0-a9b2-184ee35aff8c.png)
 
 
+------------------------------
+Code, CSV files and Image files
 
+Code:
+
+Weather_Database.ipynb
+
+Vacation_Search.ipynb
+
+Vacation_Itinerary.ipynb
+
+CSV Files:
+
+Weather_Py_challenge.csv
+
+Weather_Py_vacation.csv
+
+Image Files:
+
+WeatherPy_vacation_map.png
+
+WeatherPy_travel_map.png
+
+WeatherPy_travel_map_markers.png.
 
